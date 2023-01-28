@@ -1,0 +1,16 @@
+{
+  "name": "primaappreact",
+  "version": "1.0.0",
+  "description": "PrimaAppReact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "react"
+  ],
+  "author": "Davide",
+  "license": "ISC"
+}
